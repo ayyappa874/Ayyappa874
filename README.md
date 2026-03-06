@@ -48,11 +48,15 @@ FastAPI | Flask | REST APIs
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ayyappa874&show_icons=true)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayyappa874&layout=compact)
+![Ayyappa Stats](https://github-readme-stats.vercel.app/api?username=Ayyappa874&show_icons=true&theme=radical)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayyappa874&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ayyappa874&theme=radical)
 
 ## 🔥 GitHub Streak
 
