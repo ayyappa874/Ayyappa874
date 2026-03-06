@@ -18,7 +18,11 @@ As an AI technologist from India, I leverage data science, machine learning, and
 
 ---
 
-**<b> Daily Joke:</b>**
+##  Daily Joke
+
+<!-- JOKE:START -->
+Loading joke...
+<!-- JOKE:END -->
 
 ---
 
