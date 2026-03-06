@@ -5,20 +5,20 @@
 </div>
 
 # Samberapu Ayyappa
-> AI Engineer | Machine Learning Engineer | Computer Vision Developer
+> Data Analyst| Web Developer | Machine Learning Engineer | Cloud Solutions Architect
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/Ayyappa874)
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium)](https://medium.com/)
-[![Instagram Badge](https://img.shields.io/badge/-@ayyappa-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/)
-[![Gmail Badge](https://img.shields.io/badge/-Ayyappa-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yourmail@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayyappa-s-37898b2a8/)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium)](https://medium.com/@sayyappa874)
+[![Instagram Badge](https://img.shields.io/badge/-@knownknowledge__-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/knownknowledge__/)
+[![Gmail Badge](https://img.shields.io/badge/-sayyappa874-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sayyappa874@gmail.com)
 
-## 🚀 Innovation Through Technology
+##  Innovation Through Technology
 
 As an AI technologist from India, I leverage data science, machine learning, and software engineering to architect intelligent systems that solve real-world problems. My expertise spans AI model development, computer vision systems, and scalable AI infrastructure.
 
 ---
 
-**<b>📌 Daily Joke:</b>**
+**<b> Daily Joke:</b>**
 
 ---
 
