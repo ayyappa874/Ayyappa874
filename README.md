@@ -1,4 +1,8 @@
-[<img src="https://github.com/Ayyappa874/Ayyappa874/blob/main/images/github_banner.png">](https://raw.githubusercontent.com/ayyappa874/Ayyappa874/main/images/data%20science.jpg)
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/ayyappa874/Ayyappa874/main/images/data%20science.jpg">
+
+</div>
 
 # Samberapu Ayyappa
 > AI Engineer | Machine Learning Engineer | Computer Vision Developer
