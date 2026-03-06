@@ -97,13 +97,20 @@ What do you call a bee that lives in America? A USB.
 
 ## 📈 Performance Metrics
 
-## 📈 Performance Metrics
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ayyappa874&show_icons=true&theme=radical&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ayyappa874&layout=compact&langs_count=10&theme=radical&hide_border=true&card_width=450" width="100%" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ayyappa874&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayyappa874&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ayyappa874&theme=radical)>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayyappa874&theme=radical&hide_border=true&card_width=450" />
+</p
 
 ## 🏆 GitHub Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=Ayyappa874&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4" width="100%" />
