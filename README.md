@@ -1,16 +1,65 @@
-## Hi there 👋
+# Samberapu Ayyappa
+AI Engineer | Machine Learning | Computer Vision | Data Science
 
-<!--
-**ayyappa874/Ayyappa874** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIn](https://linkedin.com/in/Ayyappa874) |
+[GitHub](https://github.com/Ayyappa874)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Innovation Through Artificial Intelligence
+
+AI & Data Science Engineer passionate about building intelligent systems that solve real-world problems.
+
+• Machine Learning  
+• Computer Vision  
+• Explainable AI  
+• Data Science  
+
+---
+
+## 💡 Expertise
+
+### Machine Learning
+Building predictive models and deep learning systems.
+
+### Computer Vision
+Image processing, object detection, and medical imaging.
+
+### Data Science
+Data analysis, visualization, and insights generation.
+
+---
+
+## 🔧 Technical Skills
+
+### Languages
+Python | SQL | C++ | Java
+
+### AI / ML
+TensorFlow | PyTorch | Scikit-Learn | OpenCV
+
+### Data Tools
+Pandas | NumPy | Power BI | Matplotlib
+
+### Backend
+FastAPI | Flask | REST APIs
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Ayyappa874&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayyappa874&layout=compact)
+
+---
+
+## 🔥 GitHub Streak
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayyappa874)
+
+---
+
+## 🌍 Vision
+
+Building AI systems that solve meaningful global problems.
