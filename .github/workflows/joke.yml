@@ -1,8 +1,8 @@
-name: Update Daily Joke
+name: Daily Joke Update
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every day
+    - cron: "0 0 * * *"   # runs daily
   workflow_dispatch:
 
 jobs:
@@ -10,21 +10,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Get Joke
+      - name: Fetch Joke
         run: |
-          curl -s https://official-joke-api.appspot.com/random_joke > joke.json
-          setup=$(jq -r '.setup' joke.json)
-          punchline=$(jq -r '.punchline' joke.json)
-          joke="$setup $punchline"
-          echo "$joke" > joke.txt
+          joke=$(curl -s https://official-joke-api.appspot.com/random_joke | jq -r '"\(.setup) \(.punchline)"')
+          echo "JOKE=$joke" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          joke=$(cat joke.txt)
-          sed -i "/<!--START_JOKE-->/, /<!--END_JOKE-->/c\<!--START_JOKE-->\n$joke\n<!--END_JOKE-->" README.md
+          sed -i "/<!--START_JOKE-->/, /<!--END_JOKE-->/c\<!--START_JOKE-->\n$JOKE\n<!--END_JOKE-->" README.md
 
       - name: Commit Changes
         run: |
