@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/ayyappa874/Ayyappa874/main/images/data%20science.jpg">
+<img width="100%" src="https://raw.githubusercontent.com/ayyappa874/Ayyappa874/main/images/data%20science.png">
 
 </div>
 
