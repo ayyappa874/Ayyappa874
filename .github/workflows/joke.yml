@@ -2,7 +2,7 @@ name: Update Daily Joke
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # Runs every day
   workflow_dispatch:
 
 jobs:
@@ -10,25 +10,26 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-
-      - name: Checkout repository
+      - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
-
-      - name: Fetch Programming Joke
+      - name: Get Joke
         run: |
-          JOKE=$(curl -s https://official-joke-api.appspot.com/jokes/programming/random | jq -r '.[0].setup + " " + .[0].punchline')
-          sed -i "/<!-- JOKE:START -->/,/<!-- JOKE:END -->/c\<!-- JOKE:START -->\n$JOKE\n<!-- JOKE:END -->" README.md
+          curl -s https://official-joke-api.appspot.com/random_joke > joke.json
+          setup=$(jq -r '.setup' joke.json)
+          punchline=$(jq -r '.punchline' joke.json)
+          joke="$setup $punchline"
+          echo "$joke" > joke.txt
 
-      - name: Commit changes
+      - name: Update README
+        run: |
+          joke=$(cat joke.txt)
+          sed -i "/<!--START_JOKE-->/, /<!--END_JOKE-->/c\<!--START_JOKE-->\n$joke\n<!--END_JOKE-->" README.md
+
+      - name: Commit Changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "Updated daily joke" || exit 0
-
-      - name: Push changes
-        run: |
-          git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/${{ github.repository }}.git
+          git commit -m "Updated daily joke" || echo "No changes"
+          git push
