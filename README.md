@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What do you get when you cross a rabbit with a water hose? Hare spray.
+Why are mummys scared of vacation? They're afraid to unwind.
 <!--END_JOKE-->
 
 ---
