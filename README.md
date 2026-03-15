@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why are mummys scared of vacation? They're afraid to unwind.
+A DHCP packet walks into a bar and asks for a beer. Bartender says, "here, but I’ll need that back in an hour!"
 <!--END_JOKE-->
 
 ---
