@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-A DHCP packet walks into a bar and asks for a beer. Bartender says, "here, but I’ll need that back in an hour!"
+Where does Fonzie like to go for lunch? Chick-Fil-Eyyyyyyyy.
 <!--END_JOKE-->
 
 ---
