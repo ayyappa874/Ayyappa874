@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Do you want a brief explanation of what an acorn is? In a nutshell, it's an oak tree.
+How does a French skeleton say hello? Bone-jour.
 <!--END_JOKE-->
 
 ---
