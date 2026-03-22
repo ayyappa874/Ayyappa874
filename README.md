@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What is a centipedes's favorite Beatle song? I want to hold your hand, hand, hand, hand...
+How do hens stay fit? They always egg-cercise!
 <!--END_JOKE-->
 
 ---
