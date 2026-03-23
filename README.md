@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-How do hens stay fit? They always egg-cercise!
+What biscuit does a short person like? Shortbread. 
 <!--END_JOKE-->
 
 ---
