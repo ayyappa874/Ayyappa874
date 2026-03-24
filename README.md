@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What biscuit does a short person like? Shortbread. 
+Why did the half blind man fall in the well? Because he couldn't see that well!
 <!--END_JOKE-->
 
 ---
