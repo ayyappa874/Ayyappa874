@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What did the grape do when he got stepped on? He let out a little wine.
+Due to complaints, Hawaii passed a law where you're not allowed to laugh above a certain decibel. You can only use a low ha.
 <!--END_JOKE-->
 
 ---
