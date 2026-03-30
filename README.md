@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-How do hens stay fit? They always egg-cercise!
+Dad, can you put my shoes on? I don't think they'll fit me.
 <!--END_JOKE-->
 
 ---
