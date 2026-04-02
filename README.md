@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-I was gonna tell you a joke about UDP... ...but you might not get it.
+What’s brown and sounds like a bell? Dung!
 <!--END_JOKE-->
 
 ---
