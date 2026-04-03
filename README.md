@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What’s brown and sounds like a bell? Dung!
+What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
 <!--END_JOKE-->
 
 ---
