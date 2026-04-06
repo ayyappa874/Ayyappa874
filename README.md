@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Have you ever heard of a music group called Cellophane? They mostly wrap.
+What biscuit does a short person like? Shortbread. 
 <!--END_JOKE-->
 
 ---
