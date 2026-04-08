@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why are oranges the smartest fruit? Because they are made to concentrate. 
+Why did the golfer wear two pairs of pants? In case he got a hole in one.
 <!--END_JOKE-->
 
 ---
