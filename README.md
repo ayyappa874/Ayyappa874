@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-I can't tell if i like this blender... It keeps giving me mixed results.
+What did one snowman say to the other snow man? Do you smell carrot?
 <!--END_JOKE-->
 
 ---
