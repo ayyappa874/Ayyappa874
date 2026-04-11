@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What did one snowman say to the other snow man? Do you smell carrot?
+What do you call sad coffee? Despresso.
 <!--END_JOKE-->
 
 ---
