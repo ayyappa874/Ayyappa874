@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What lies at the bottom of the ocean and twitches? A nervous wreck.
+What do you call a duck that gets all A's? A wise quacker.
 <!--END_JOKE-->
 
 ---
