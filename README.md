@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Did you hear about the scientist who was lab partners with a pot of boiling water? He had a very esteemed colleague.
+What do you call a group of killer whales playing instruments? An Orca-stra.
 <!--END_JOKE-->
 
 ---
