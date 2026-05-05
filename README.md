@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What kind of dog lives in a particle accelerator? A Fermilabrador Retriever.
+Why do chicken coops only have two doors? Because if they had four, they would be chicken sedans
 <!--END_JOKE-->
 
 ---
