@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What do you call an Argentinian with a rubber toe? Roberto
+Want to hear my pizza joke? Never mind, it's too cheesy.
 <!--END_JOKE-->
 
 ---
