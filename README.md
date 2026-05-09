@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why did the golfer bring two pairs of pants? In case he got a hole in one.
+Why did the programmer's wife leave him? He didn't know how to commit.
 <!--END_JOKE-->
 
 ---
