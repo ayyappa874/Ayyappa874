@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why did the tree go to the dentist? It needed a root canal.
+Can I watch the TV? Yes, but don’t turn it on.
 <!--END_JOKE-->
 
 ---
