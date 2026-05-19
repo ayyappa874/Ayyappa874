@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-How do the trees get on the internet? They log on.
+If you put a million monkeys at a million keyboards, one of them will eventually write a Java program the rest of them will write Perl
 <!--END_JOKE-->
 
 ---
