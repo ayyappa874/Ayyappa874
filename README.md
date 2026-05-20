@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-If you put a million monkeys at a million keyboards, one of them will eventually write a Java program the rest of them will write Perl
+How are false teeth like stars? They come out at night!
 <!--END_JOKE-->
 
 ---
