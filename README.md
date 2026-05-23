@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What's the difference between a hippo and a zippo? One is really heavy, the other is a little lighter.
+What do you call a bear with no teeth? A gummy bear!
 <!--END_JOKE-->
 
 ---
