@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What do you call a bear with no teeth? A gummy bear!
+What is a tornado's favorite game to play? Twister!
 <!--END_JOKE-->
 
 ---
