@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What is a tornado's favorite game to play? Twister!
+What kind of music do planets listen to? Nep-tunes.
 <!--END_JOKE-->
 
 ---
