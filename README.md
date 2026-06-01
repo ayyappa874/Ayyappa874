@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Did you hear about the submarine industry? It really took a dive...
+Bad at golf? Join the club.
 <!--END_JOKE-->
 
 ---
