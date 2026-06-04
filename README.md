@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why don't programmers like nature? Too many bugs.
+What is the least spoken language in the world? Sign Language
 <!--END_JOKE-->
 
 ---
