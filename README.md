@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What is the least spoken language in the world? Sign Language
+What do you call a bee that lives in America? A USB.
 <!--END_JOKE-->
 
 ---
