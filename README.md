@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why do programmers always get Christmas and Halloween mixed up? Because DEC 25 = OCT 31
+How many apples grow on a tree? All of them!
 <!--END_JOKE-->
 
 ---
