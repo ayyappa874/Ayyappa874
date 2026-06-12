@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-When does a joke become a dad joke? When it becomes apparent.
+How much does a hipster weigh? An instagram.
 <!--END_JOKE-->
 
 ---
