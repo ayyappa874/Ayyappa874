@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-How much does a hipster weigh? An instagram.
+Is the pool safe for diving? It deep ends.
 <!--END_JOKE-->
 
 ---
