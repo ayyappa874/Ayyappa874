@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What did the big flower say to the littler flower? Hi, bud!
+How do you generate a random string? Put a Windows user in front of Vim and tell them to exit.
 <!--END_JOKE-->
 
 ---
