@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-How do you generate a random string? Put a Windows user in front of Vim and tell them to exit.
+Why did the half blind man fall in the well? Because he couldn't see that well!
 <!--END_JOKE-->
 
 ---
