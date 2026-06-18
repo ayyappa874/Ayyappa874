@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Lady: How do I spread love in this cruel world? Random Dude: [...💘]
+What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
 <!--END_JOKE-->
 
 ---
