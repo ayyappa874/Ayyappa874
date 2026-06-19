@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What’s the difference between an African elephant and an Indian elephant? About 5000 miles.
+Who is the coolest Doctor in the hospital? The hip Doctor!
 <!--END_JOKE-->
 
 ---
