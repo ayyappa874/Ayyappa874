@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why do valley girls hang out in odd numbered groups? Because they can't even.
+What do I look like? A JOKE MACHINE!?
 <!--END_JOKE-->
 
 ---
