@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What do I look like? A JOKE MACHINE!?
+What did one wall say to the other wall? I'll meet you at the corner!
 <!--END_JOKE-->
 
 ---
