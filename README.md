@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-How do you know if there’s an elephant under your bed? Your head hits the ceiling!
+Why don't you find hippopotamuses hiding in trees? They're really good at it.
 <!--END_JOKE-->
 
 ---
