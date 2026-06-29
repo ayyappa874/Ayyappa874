@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Where do young cows eat lunch? In the calf-ateria.
+What did the late tomato say to the early tomato? I’ll ketch up
 <!--END_JOKE-->
 
 ---
