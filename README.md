@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What did the late tomato say to the early tomato? I’ll ketch up
+What do I look like? A JOKE MACHINE!?
 <!--END_JOKE-->
 
 ---
