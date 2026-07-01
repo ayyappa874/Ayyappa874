@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What do I look like? A JOKE MACHINE!?
+Why did the rooster cross the road? He heard that the chickens at KFC were pretty hot.
 <!--END_JOKE-->
 
 ---
