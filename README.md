@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why did the rooster cross the road? He heard that the chickens at KFC were pretty hot.
+Why do pumpkins sit on people’s porches? They have no hands to knock on the door.
 <!--END_JOKE-->
 
 ---
