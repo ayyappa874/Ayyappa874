@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What has ears but cannot hear? A field of corn.
+Which side of the chicken has more feathers? The outside.
 <!--END_JOKE-->
 
 ---
