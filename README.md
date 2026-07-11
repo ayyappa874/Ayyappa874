@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Have you heard of the band 1023MB? They haven't got a gig yet.
+What kind of tree fits in your hand? A palm tree!
 <!--END_JOKE-->
 
 ---
