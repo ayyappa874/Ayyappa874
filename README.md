@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Lady: How do I spread love in this cruel world? Random Dude: [...💘]
+How do the trees get on the internet? They log on.
 <!--END_JOKE-->
 
 ---
