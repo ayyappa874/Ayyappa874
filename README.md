@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-How do the trees get on the internet? They log on.
+Why did the scarecrow win an award? Because he was outstanding in his field.
 <!--END_JOKE-->
 
 ---
