@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why do scuba divers fall backwards into the water? Because if they fell forwards they’d still be in the boat.
+Did you hear the joke about the wandering nun? She was a roman catholic.
 <!--END_JOKE-->
 
 ---
