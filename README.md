@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Did you hear the joke about the wandering nun? She was a roman catholic.
+What do you call fake spaghetti? An impasta.
 <!--END_JOKE-->
 
 ---
