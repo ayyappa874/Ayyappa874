@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why are fish easy to weigh? Because they have their own scales.
+What is this movie about? It is about 2 hours long.
 <!--END_JOKE-->
 
 ---
