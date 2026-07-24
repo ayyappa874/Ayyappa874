@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What is this movie about? It is about 2 hours long.
+I bought some shoes from a drug dealer. I don't know what he laced them with, but I was tripping all day!
 <!--END_JOKE-->
 
 ---
