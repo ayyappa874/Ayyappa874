@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-I bought some shoes from a drug dealer. I don't know what he laced them with, but I was tripping all day!
+What do you call an alligator in a vest? An in-vest-igator!
 <!--END_JOKE-->
 
 ---
