@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What do you call an alligator in a vest? An in-vest-igator!
+Why did the tree go to the dentist? It needed a root canal.
 <!--END_JOKE-->
 
 ---
