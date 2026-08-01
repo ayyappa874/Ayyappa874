@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Where do bees go to the bathroom? The BP station.
+What kind of dinosaur loves to sleep? A stega-snore-us.
 <!--END_JOKE-->
 
 ---
