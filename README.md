@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What kind of dinosaur loves to sleep? A stega-snore-us.
+Why does a Moon-rock taste better than an Earth-rock? Because it's a little meteor.
 <!--END_JOKE-->
 
 ---
