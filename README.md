@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-I saw a nice stereo on Craigslist for $1. Seller says the volume is stuck on ‘high’ I couldn’t turn it down.
+Why are oranges the smartest fruit? Because they are made to concentrate. 
 <!--END_JOKE-->
 
 ---
