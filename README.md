@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why are oranges the smartest fruit? Because they are made to concentrate. 
+Why does Superman get invited to dinners? Because he is a Supperhero.
 <!--END_JOKE-->
 
 ---
