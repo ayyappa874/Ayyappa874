@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why did the coffee file a police report? It got mugged.
+Did you hear about the Mexican train killer? He had loco motives
 <!--END_JOKE-->
 
 ---
