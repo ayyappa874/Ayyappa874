@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why did the coffee file a police report? It got mugged.
+What's the best thing about a Boolean? Even if you're wrong, you're only off by a bit.
 <!--END_JOKE-->
 
 ---
