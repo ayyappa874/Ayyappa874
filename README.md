@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What did Romans use to cut pizza before the rolling cutter was invented? Lil Caesars
+I'm reading a book about anti-gravity... It's impossible to put down
 <!--END_JOKE-->
 
 ---
