@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-I'm reading a book about anti-gravity... It's impossible to put down
+When is a door not a door? When it's ajar.
 <!--END_JOKE-->
 
 ---
