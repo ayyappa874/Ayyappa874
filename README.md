@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What do you do on a remote island? Try and find the TV island it belongs to.
+What did the Red light say to the Green light? Don't look at me I'm changing!
 <!--END_JOKE-->
 
 ---
