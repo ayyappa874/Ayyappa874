@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What did the Red light say to the Green light? Don't look at me I'm changing!
+How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
 <!--END_JOKE-->
 
 ---
