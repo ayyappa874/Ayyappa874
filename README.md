@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-How many optometrists does it take to change a light bulb? 1 or 2? 1... or 2?
+How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
 <!--END_JOKE-->
 
 ---
