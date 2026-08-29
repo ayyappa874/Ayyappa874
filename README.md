@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-How did Darth Vader know what Luke was getting for Christmas? He felt his presents.
+How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
 <!--END_JOKE-->
 
 ---
