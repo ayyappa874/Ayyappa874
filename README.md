@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-How do you tell the difference between a crocodile and an alligator? You will see one later and one in a while.
+What’s Forest Gump’s Facebook password? 1forest1
 <!--END_JOKE-->
 
 ---
