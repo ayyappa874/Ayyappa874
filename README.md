@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What’s Forest Gump’s Facebook password? 1forest1
+What did the duck say when he bought lipstick? Put it on my bill
 <!--END_JOKE-->
 
 ---
