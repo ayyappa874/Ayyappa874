@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What kind of shoes does a thief wear? Sneakers
+A user interface is like a joke. If you have to explain it then it is not that good.
 <!--END_JOKE-->
 
 ---
