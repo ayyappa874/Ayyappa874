@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What did the pirate say on his 80th birthday? Aye Matey!
+What time did the man go to the dentist? Tooth hurt-y.
 <!--END_JOKE-->
 
 ---
