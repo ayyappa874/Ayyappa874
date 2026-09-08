@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What time did the man go to the dentist? Tooth hurt-y.
+A user interface is like a joke. If you have to explain it then it is not that good.
 <!--END_JOKE-->
 
 ---
