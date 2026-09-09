@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-A user interface is like a joke. If you have to explain it then it is not that good.
+What do you do on a remote island? Try and find the TV island it belongs to.
 <!--END_JOKE-->
 
 ---
