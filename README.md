@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
+99.9% of the people are dumb! Fortunately I belong to the remaining 1%
 <!--END_JOKE-->
 
 ---
