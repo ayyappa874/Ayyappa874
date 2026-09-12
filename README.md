@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-99.9% of the people are dumb! Fortunately I belong to the remaining 1%
+Who is the coolest Doctor in the hospital? The hip Doctor!
 <!--END_JOKE-->
 
 ---
