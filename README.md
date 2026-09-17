@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why didn’t the orange win the race? It ran out of juice.
+I dropped a pear in my car this morning. You should drop another one, then you would have a pair.
 <!--END_JOKE-->
 
 ---
