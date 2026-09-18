@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-I dropped a pear in my car this morning. You should drop another one, then you would have a pair.
+What did Michael Jackson name his denim store? Billy Jeans!
 <!--END_JOKE-->
 
 ---
