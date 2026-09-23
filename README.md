@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why don't oysters give to charity? Because they're shellfish.
+What do you call a nervous javelin thrower? Shakespeare.
 <!--END_JOKE-->
 
 ---
