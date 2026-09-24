@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What do you call a nervous javelin thrower? Shakespeare.
+What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
 <!--END_JOKE-->
 
 ---
