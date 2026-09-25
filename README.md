@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What did the judge say to the dentist? Do you swear to pull the tooth, the whole tooth and nothing but the tooth?
+How does the moon cut his hair? Eclipse it.
 <!--END_JOKE-->
 
 ---
