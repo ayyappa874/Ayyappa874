@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why did the barber win the race? He took a short cut.
+How many lips does a flower have? Tulips
 <!--END_JOKE-->
 
 ---
