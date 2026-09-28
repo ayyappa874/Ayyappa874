@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-How many lips does a flower have? Tulips
+How do you make holy water? You boil the hell out of it
 <!--END_JOKE-->
 
 ---
