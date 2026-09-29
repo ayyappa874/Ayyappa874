@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-How do you make holy water? You boil the hell out of it
+Why don't skeletons fight each other? They don't have the guts.
 <!--END_JOKE-->
 
 ---
