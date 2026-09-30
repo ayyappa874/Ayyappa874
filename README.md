@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why don't skeletons fight each other? They don't have the guts.
+What is red and smells like blue paint? Red paint!
 <!--END_JOKE-->
 
 ---
