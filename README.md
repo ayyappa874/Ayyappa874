@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Do you know where you can get chicken broth in bulk? The stock market.
+If you're American when you go into the bathroom, and American when you come out, what are you when you're in there? European
 <!--END_JOKE-->
 
 ---
