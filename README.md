@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why did the girl smear peanut butter on the road? To go with the traffic jam.
+Why did the programmer always carry a pencil? They preferred to write in C#.
 <!--END_JOKE-->
 
 ---
