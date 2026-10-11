@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why did the programmer always carry a pencil? They preferred to write in C#.
+Why is peter pan always flying? Because he neverlands
 <!--END_JOKE-->
 
 ---
