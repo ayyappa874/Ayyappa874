@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why is peter pan always flying? Because he neverlands
+What do you call someone with no nose? Nobody knows.
 <!--END_JOKE-->
 
 ---
