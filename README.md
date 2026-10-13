@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What do you call someone with no nose? Nobody knows.
+Don't look at the eclipse through a colander. You'll strain your eyes.
 <!--END_JOKE-->
 
 ---
