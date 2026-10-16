@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Hey, dad, did you get a haircut? No, I got them all cut.
+What happens to a frog's car when it breaks down? It gets toad away
 <!--END_JOKE-->
 
 ---
