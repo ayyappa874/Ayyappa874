@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-How many bones are in the human hand? A handful of them.
+What is the most used language in programming? Profanity.
 <!--END_JOKE-->
 
 ---
