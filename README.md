@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What is the most used language in programming? Profanity.
+You see, mountains aren't just funny. They are hill areas.
 <!--END_JOKE-->
 
 ---
