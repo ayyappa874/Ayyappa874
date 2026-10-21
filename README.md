@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Did you hear about the guy whose whole left side was cut off? He's all right now.
+Bad at golf? Join the club.
 <!--END_JOKE-->
 
 ---
