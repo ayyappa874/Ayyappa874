@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Bad at golf? Join the club.
+Why can’t you hear a pterodactyl go to the bathroom? The p is silent.
 <!--END_JOKE-->
 
 ---
