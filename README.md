@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Did you watch the new comic book movie? It was very graphic!
+Where do you learn to make banana splits? At sundae school.
 <!--END_JOKE-->
 
 ---
