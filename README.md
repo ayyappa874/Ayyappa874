@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What do you call a cow on a trampoline? A milk shake!
+What did the left eye say to the right eye? Between us, something smells!
 <!--END_JOKE-->
 
 ---
