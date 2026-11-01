@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-Why dot net developers don't wear glasses? Because they see sharp.
+How many lips does a flower have? Tulips
 <!--END_JOKE-->
 
 ---
