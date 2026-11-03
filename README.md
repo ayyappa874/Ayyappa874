@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-What did the big flower say to the littler flower? Hi, bud!
+How many programmers does it take to change a lightbulb? None that's a hardware problem
 <!--END_JOKE-->
 
 ---
