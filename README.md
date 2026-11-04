@@ -21,7 +21,7 @@ As an AI technologist from India, I leverage data science, machine learning, and
 ## 😂 Daily Joke
 
 <!--START_JOKE-->
-How many programmers does it take to change a lightbulb? None that's a hardware problem
+My older brother always tore the last pages of my comic books, and never told me why. I had to draw my own conclusions.
 <!--END_JOKE-->
 
 ---
